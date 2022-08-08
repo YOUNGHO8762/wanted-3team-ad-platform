@@ -165,3 +165,17 @@ deleteAdversising(5); // 광고 id만 전달한다
 // 광고 목록 다시 요청
 getManagementState();
 ```
+
+### Installation
+
+```
+npm install
+```
+
+### Run
+
+```
+npm run server
+npm run dev
+```
+
