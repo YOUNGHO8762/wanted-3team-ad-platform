@@ -1,4 +1,20 @@
 # wanted-3team-ad-platform
+### Installation
+
+```
+npm install
+```
+
+### Run
+
+```
+npm run server
+npm run dev
+```
+## 개발 인원 및 기간
+
+- 개발기간 : 2022/07/14 ~ 2021/07/20
+- 개발 인원 : 프론트엔드 5명
 
 ## 역할분담
 
@@ -166,16 +182,4 @@ deleteAdversising(5); // 광고 id만 전달한다
 getManagementState();
 ```
 
-### Installation
-
-```
-npm install
-```
-
-### Run
-
-```
-npm run server
-npm run dev
-```
 
